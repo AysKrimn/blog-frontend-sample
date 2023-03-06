@@ -44,6 +44,13 @@ p {
 }
 
 
+.icons, .social span {
+
+    cursor: pointer;
+    font-size: 23px;
+    padding: 5px;
+}
+
 
 @media screen and (max-width: 768px) {
  
