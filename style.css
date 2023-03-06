@@ -1,0 +1,56 @@
+p {
+
+    margin: 0;
+}
+
+.bilgilendirme {
+
+    background-color: rgb(237 237 237);
+    padding: 1rem;
+}
+
+.bordersiz {
+
+    border: none;
+}
+
+.uploaded-item {
+
+    align-self: center;
+}
+
+.uploaded-item img {
+
+    min-height: 144px;
+    object-fit: cover;
+}
+
+.icons {
+
+    text-align: end;
+}
+
+
+.post-banner img {
+
+    max-height: 450px;
+
+}
+
+
+.sag-cizgi {
+
+    border-right: 1px solid #a19d9d;
+}
+
+
+
+@media screen and (max-width: 768px) {
+ 
+
+    #recent-posts {
+
+        order: 2;
+    }
+  
+}
